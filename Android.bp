@@ -36,5 +36,8 @@ java_library_static {
     srcs: ["src/**/*.java"],
     java_resource_dirs: ["src"],
 
+    host_supported: true,
     sdk_version: "current",
+    // TODO(b/237039251) use "apex_inherit" when Java modules support it
+    min_sdk_version: "29",
 }
