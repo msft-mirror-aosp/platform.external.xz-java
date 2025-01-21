@@ -26,7 +26,7 @@ license {
         "legacy_unencumbered",
     ],
     license_text: [
-        "COPYING",
+        "LICENSE",
     ],
 }
 
