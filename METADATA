@@ -11,12 +11,9 @@ third_party {
     month: 11
     day: 28
   }
+  homepage: "https://tukaani.org/xz/java.html"
   identifier {
-    type: "HOMEPAGE"
-    value: "https://tukaani.org/xz/java.html"
-  }
-  identifier {
-    type: "GIT"
+    type: "Git"
     value: "https://github.com/tukaani-project/xz-java.git"
     version: "v1.9"
   }
