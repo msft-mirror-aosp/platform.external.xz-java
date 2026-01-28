@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/tukaani-project/xz-java.git"
-    version: "v1.9"
+    version: "8f8e9514c7035f69107d73fee458cd8ce50a7dde"
+    closest_version: "v1.9"
   }
 }
